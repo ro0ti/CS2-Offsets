@@ -39,3 +39,7 @@ public static class engine2_dll {
     "m_vecViewOffset": 3144
 }
 ```
+
+# Credits
+Dumper - [a2x](https://github.com/a2x/cs2-dumper/)
+Updates - [ro0ti](https://github.com/ro0ti/)
