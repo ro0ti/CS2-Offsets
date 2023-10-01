@@ -2,7 +2,7 @@
 I will try to get updated after every update.
 
 # Quick Offsets
-```
+```cs
 public static class client_dll {
     public const nint entityList = 0x178B898;
     public const nint globalVars = 0x168ECE8;
@@ -22,7 +22,7 @@ public static class engine2_dll {
 ```
 
 # Quick config.json
-```
+```json
 {
     "dwEntityList": 24688792,
     "dwLocalPlayer": 25010456,
