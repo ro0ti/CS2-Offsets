@@ -21,25 +21,6 @@ public static class engine2_dll {
 }
 ```
 
-# Quick config.json
-```json
-{
-    "dwEntityList": 24688792,
-    "dwLocalPlayer": 25010456,
-    "dwPawnHealth": 2056,
-    "dwPlayerPawn": 1500,
-    "dwSanitizedName": 1824,
-    "dwViewMatrix": 25663216,
-    "m_aimPunchAngle": 5892,
-    "m_bSpotted": 8,
-    "m_bSpottedByMask": 12,
-    "m_iShotsFired": 5124,
-    "m_iTeamNum": 959,
-    "m_vecOrigin": 4628,
-    "m_vecViewOffset": 3144
-}
-```
-
 # Credits
 - Dumper - [a2x](https://github.com/a2x/cs2-dumper/)
 - Updates - [ro0ti](https://github.com/ro0ti/)
