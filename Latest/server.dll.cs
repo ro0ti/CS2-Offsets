@@ -1309,7 +1309,7 @@ public static class CCSGameRules {
     public const nint m_fTeamIntroPeriodEnd = 0x17F0; // GameTime_t
     public const nint m_bPlayedTeamIntroVO = 0x17F4; // bool
     public const nint m_flLastPerfSampleTime = 0x27B0; // float64
-    public const nint m_bSkipNextPerfSample = 0x27B8; // bool
+    public const nint m_bSkipNextServerPerfSample = 0x27B8; // bool
 }
 
 public static class CCSGameRulesProxy {

@@ -1,14 +1,14 @@
 #![allow(non_snake_case, non_upper_case_globals)]
 
 pub mod client_dll {
-    pub const entityList: usize = 0x178B898;
-    pub const globalVars: usize = 0x168ECE8;
-    pub const interfaceLinkList: usize = 0x1971A58;
-    pub const localPlayerController: usize = 0x17DA118;
-    pub const localPlayerPawn: usize = 0x1878C08;
-    pub const plantedC4: usize = 0x187E9A0;
-    pub const viewAngles: usize = 0x18D85B0;
-    pub const viewMatrix: usize = 0x18796F0;
+    pub const entityList: usize = 0x178D8C8;
+    pub const globalVars: usize = 0x1690CF8;
+    pub const interfaceLinkList: usize = 0x1973A68;
+    pub const localPlayerController: usize = 0x17DC148;
+    pub const localPlayerPawn: usize = 0x187AC28;
+    pub const plantedC4: usize = 0x1880AE0;
+    pub const viewAngles: usize = 0x18DA5C0;
+    pub const viewMatrix: usize = 0x187B710;
 }
 
 pub mod engine2_dll {

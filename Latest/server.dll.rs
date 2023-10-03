@@ -1311,7 +1311,7 @@ pub mod CCSGameRules {
     pub const m_fTeamIntroPeriodEnd: usize = 0x17F0; // GameTime_t
     pub const m_bPlayedTeamIntroVO: usize = 0x17F4; // bool
     pub const m_flLastPerfSampleTime: usize = 0x27B0; // float64
-    pub const m_bSkipNextPerfSample: usize = 0x27B8; // bool
+    pub const m_bSkipNextServerPerfSample: usize = 0x27B8; // bool
 }
 
 pub mod CCSGameRulesProxy {

@@ -3,14 +3,14 @@
 #include <cstddef>
 
 namespace client_dll {
-    constexpr std::ptrdiff_t entityList = 0x178B898;
-    constexpr std::ptrdiff_t globalVars = 0x168ECE8;
-    constexpr std::ptrdiff_t interfaceLinkList = 0x1971A58;
-    constexpr std::ptrdiff_t localPlayerController = 0x17DA118;
-    constexpr std::ptrdiff_t localPlayerPawn = 0x1878C08;
-    constexpr std::ptrdiff_t plantedC4 = 0x187E9A0;
-    constexpr std::ptrdiff_t viewAngles = 0x18D85B0;
-    constexpr std::ptrdiff_t viewMatrix = 0x18796F0;
+    constexpr std::ptrdiff_t entityList = 0x178D8C8;
+    constexpr std::ptrdiff_t globalVars = 0x1690CF8;
+    constexpr std::ptrdiff_t interfaceLinkList = 0x1973A68;
+    constexpr std::ptrdiff_t localPlayerController = 0x17DC148;
+    constexpr std::ptrdiff_t localPlayerPawn = 0x187AC28;
+    constexpr std::ptrdiff_t plantedC4 = 0x1880AE0;
+    constexpr std::ptrdiff_t viewAngles = 0x18DA5C0;
+    constexpr std::ptrdiff_t viewMatrix = 0x187B710;
 }
 
 namespace engine2_dll {

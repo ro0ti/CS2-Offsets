@@ -1313,7 +1313,7 @@ namespace CCSGameRules {
     constexpr std::ptrdiff_t m_fTeamIntroPeriodEnd = 0x17F0; // GameTime_t
     constexpr std::ptrdiff_t m_bPlayedTeamIntroVO = 0x17F4; // bool
     constexpr std::ptrdiff_t m_flLastPerfSampleTime = 0x27B0; // float64
-    constexpr std::ptrdiff_t m_bSkipNextPerfSample = 0x27B8; // bool
+    constexpr std::ptrdiff_t m_bSkipNextServerPerfSample = 0x27B8; // bool
 }
 
 namespace CCSGameRulesProxy {
