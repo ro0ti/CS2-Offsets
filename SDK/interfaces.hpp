@@ -8,14 +8,14 @@ namespace animationsystem_dll {
 }
 
 namespace client_dll {
-    constexpr std::ptrdiff_t LegacyGameUI001 = 0x88D7A0;
-    constexpr std::ptrdiff_t Source2ClientUI001 = 0x87C190;
-    constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x79B930;
-    constexpr std::ptrdiff_t ClientToolsInfo_001 = 0x727740;
-    constexpr std::ptrdiff_t Source2Client002 = 0x727760;
-    constexpr std::ptrdiff_t GameClientExports001 = 0x727750;
-    constexpr std::ptrdiff_t EmptyWorldService001_Client = 0x48A810;
-    constexpr std::ptrdiff_t Source2ClientConfig001 = 0x471BA0;
+    constexpr std::ptrdiff_t LegacyGameUI001 = 0x88DF00;
+    constexpr std::ptrdiff_t Source2ClientUI001 = 0x87C8F0;
+    constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x79BC50;
+    constexpr std::ptrdiff_t ClientToolsInfo_001 = 0x727A60;
+    constexpr std::ptrdiff_t Source2Client002 = 0x727A80;
+    constexpr std::ptrdiff_t GameClientExports001 = 0x727A70;
+    constexpr std::ptrdiff_t EmptyWorldService001_Client = 0x48AB30;
+    constexpr std::ptrdiff_t Source2ClientConfig001 = 0x471EC0;
 }
 
 namespace engine2_dll {
@@ -156,13 +156,13 @@ namespace schemasystem_dll {
 }
 
 namespace server_dll {
-    constexpr std::ptrdiff_t NavGameTest001 = 0xA2DB20;
-    constexpr std::ptrdiff_t ServerToolsInfo_001 = 0x832220;
-    constexpr std::ptrdiff_t Source2GameClients001 = 0x832230;
-    constexpr std::ptrdiff_t Source2GameEntities001 = 0x832240;
-    constexpr std::ptrdiff_t Source2Server001 = 0x832250;
-    constexpr std::ptrdiff_t EmptyWorldService001_Server = 0x5873B0;
-    constexpr std::ptrdiff_t Source2ServerConfig001 = 0x5673C0;
+    constexpr std::ptrdiff_t NavGameTest001 = 0xA2DE30;
+    constexpr std::ptrdiff_t ServerToolsInfo_001 = 0x832530;
+    constexpr std::ptrdiff_t Source2GameClients001 = 0x832540;
+    constexpr std::ptrdiff_t Source2GameEntities001 = 0x832550;
+    constexpr std::ptrdiff_t Source2Server001 = 0x832560;
+    constexpr std::ptrdiff_t EmptyWorldService001_Server = 0x5876C0;
+    constexpr std::ptrdiff_t Source2ServerConfig001 = 0x5676D0;
     constexpr std::ptrdiff_t EntitySubclassUtilsV001 = 0x2C8940;
     constexpr std::ptrdiff_t customnavsystem001 = 0x245420;
     constexpr std::ptrdiff_t Source2GameDirector001 = 0x13ED30;
