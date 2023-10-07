@@ -1,16 +1,16 @@
 {
   "client_dll": {
-    "entityList": 24697064,
-    "globalVars": 23661848,
-    "interfaceLinkList": 26688424,
-    "localPlayerController": 25018712,
-    "localPlayerPawn": 25668680,
-    "plantedC4": 25693664,
-    "viewAngles": 26060544,
-    "viewMatrix": 25671472
+    "entityList": 24676568,
+    "globalVars": 23641320,
+    "interfaceLinkList": 26668184,
+    "localPlayerController": 24998232,
+    "localPlayerPawn": 25648200,
+    "plantedC4": 25672160,
+    "viewAngles": 26040064,
+    "viewMatrix": 25650992
   },
   "engine2_dll": {
-    "networkGameClient": 4766384,
+    "networkGameClient": 4741808,
     "networkGameClient_maxClients": 592,
     "networkGameClient_signOnState": 576
   }
