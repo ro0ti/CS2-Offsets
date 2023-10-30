@@ -1,0 +1,2 @@
+# Direct Config Access
+Helps if you have a tool and want to make an update module for it. These will be direct files you can use to do so, I was already going to add it for support for my cheat and now you can to.
