@@ -556,15 +556,16 @@
   },
   "RnHull_t": {
     "m_Bounds": 16,
-    "m_Edges": 128,
-    "m_Faces": 152,
+    "m_Edges": 152,
+    "m_FacePlanes": 200,
+    "m_Faces": 176,
     "m_MassProperties": 52,
-    "m_Planes": 176,
+    "m_VertexPositions": 128,
     "m_Vertices": 104,
     "m_flMaxAngularRadius": 12,
     "m_flVolume": 100,
-    "m_nFlags": 200,
-    "m_pRegionSVM": 208,
+    "m_nFlags": 224,
+    "m_pRegionSVM": 232,
     "m_vCentroid": 0,
     "m_vOrthographicAreas": 40
   },
@@ -619,6 +620,9 @@
   },
   "RnTriangle_t": {
     "m_nIndex": 0
+  },
+  "RnVertex_t": {
+    "m_nEdge": 0
   },
   "RnWing_t": {
     "m_nIndex": 0

@@ -1,22 +1,27 @@
+/*
+ * https://github.com/a2x/cs2-dumper
+ * 2023-10-30 15:11:07.677794400 UTC
+ */
+
 #pragma once
 
 #include <cstddef>
 
 namespace CExampleSchemaVData_Monomorphic {
-    constexpr std::ptrdiff_t m_nExample1 = 0x0; // int32
-    constexpr std::ptrdiff_t m_nExample2 = 0x4; // int32
+    constexpr std::ptrdiff_t m_nExample1 = 0x0; // int32_t
+    constexpr std::ptrdiff_t m_nExample2 = 0x4; // int32_t
 }
 
 namespace CExampleSchemaVData_PolymorphicBase {
-    constexpr std::ptrdiff_t m_nBase = 0x8; // int32
+    constexpr std::ptrdiff_t m_nBase = 0x8; // int32_t
 }
 
 namespace CExampleSchemaVData_PolymorphicDerivedA {
-    constexpr std::ptrdiff_t m_nDerivedA = 0x10; // int32
+    constexpr std::ptrdiff_t m_nDerivedA = 0x10; // int32_t
 }
 
 namespace CExampleSchemaVData_PolymorphicDerivedB {
-    constexpr std::ptrdiff_t m_nDerivedB = 0x10; // int32
+    constexpr std::ptrdiff_t m_nDerivedB = 0x10; // int32_t
 }
 
 namespace CSchemaSystemInternalRegistration {
@@ -40,10 +45,10 @@ namespace CSchemaSystemInternalRegistration {
     constexpr std::ptrdiff_t m_CUtlSymbol = 0x148; // CUtlSymbol
     constexpr std::ptrdiff_t m_stringToken = 0x14C; // CUtlStringToken
     constexpr std::ptrdiff_t m_stringTokenWithStorage = 0x150; // CUtlStringTokenWithStorage
-    constexpr std::ptrdiff_t m_ResourceTypes = 0x168; // CResourceArray< CResourcePointer< CResourceString > >
+    constexpr std::ptrdiff_t m_ResourceTypes = 0x168; // CResourceArray<CResourcePointer<CResourceString>>
     constexpr std::ptrdiff_t m_KV3 = 0x170; // KeyValues3
 }
 
 namespace ResourceId_t {
-    constexpr std::ptrdiff_t m_Value = 0x0; // uint64
+    constexpr std::ptrdiff_t m_Value = 0x0; // uint64_t
 }
