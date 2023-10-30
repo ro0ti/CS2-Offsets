@@ -1,8 +1,3 @@
-/*
- * https://github.com/a2x/cs2-dumper
- * 2023-10-30 15:11:10.605402200 UTC
- */
-
 public static class ClientDll {
     public const nint dwBaseEntityModel_setModel = 0x57EA50;
     public const nint dwEntityList = 0x17995C0;
