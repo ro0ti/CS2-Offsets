@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-10-30 15:11:08.078146100 UTC
+ * 2023-11-11 18:11:08.218972100 UTC
  */
 
 public static class AggregateLODSetup_t {
@@ -168,13 +168,12 @@ public static class SceneObject_t {
     public const nint m_skin = 0x50; // CUtlString
     public const nint m_nObjectTypeFlags = 0x58; // ObjectTypeFlags_t
     public const nint m_vLightingOrigin = 0x5C; // Vector
-    public const nint m_nLightGroup = 0x68; // uint32_t
-    public const nint m_nOverlayRenderOrder = 0x6C; // int16_t
-    public const nint m_nLODOverride = 0x6E; // int16_t
-    public const nint m_nCubeMapPrecomputedHandshake = 0x70; // int32_t
-    public const nint m_nLightProbeVolumePrecomputedHandshake = 0x74; // int32_t
-    public const nint m_renderableModel = 0x80; // CStrongHandle<InfoForResourceTypeCModel>
-    public const nint m_renderable = 0x88; // CStrongHandle<InfoForResourceTypeCRenderMesh>
+    public const nint m_nOverlayRenderOrder = 0x68; // int16_t
+    public const nint m_nLODOverride = 0x6A; // int16_t
+    public const nint m_nCubeMapPrecomputedHandshake = 0x6C; // int32_t
+    public const nint m_nLightProbeVolumePrecomputedHandshake = 0x70; // int32_t
+    public const nint m_renderableModel = 0x78; // CStrongHandle<InfoForResourceTypeCModel>
+    public const nint m_renderable = 0x80; // CStrongHandle<InfoForResourceTypeCRenderMesh>
 }
 
 public static class VoxelVisBlockOffset_t {

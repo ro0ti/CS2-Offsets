@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-10-30 15:11:07.720532700 UTC
+ * 2023-11-11 18:11:07.959571300 UTC
  */
 
 public static class CEntityComponentHelper {

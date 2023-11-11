@@ -1,6 +1,6 @@
 '''
 https://github.com/a2x/cs2-dumper
-2023-10-30 15:11:07.681496 UTC
+2023-11-11 18:11:07.940173500 UTC
 '''
 
 class CExampleSchemaVData_Monomorphic:
