@@ -81,20 +81,20 @@
   },
   "CBasePlayerController": {
     "m_CommandContext": 1360,
-    "m_bIsHLTV": 1544,
-    "m_bIsLocalPlayerController": 1696,
-    "m_hPawn": 1500,
-    "m_hPredictedPawn": 1504,
-    "m_hSplitOwner": 1512,
-    "m_hSplitScreenPlayers": 1520,
-    "m_iConnected": 1548,
-    "m_iDesiredFOV": 1700,
-    "m_iszPlayerName": 1552,
+    "m_bIsHLTV": 1592,
+    "m_bIsLocalPlayerController": 1744,
+    "m_hPawn": 1548,
+    "m_hPredictedPawn": 1552,
+    "m_hSplitOwner": 1560,
+    "m_hSplitScreenPlayers": 1568,
+    "m_iConnected": 1596,
+    "m_iDesiredFOV": 1748,
+    "m_iszPlayerName": 1600,
     "m_nFinalPredictedTick": 1352,
-    "m_nInButtonsWhichAreToggles": 1488,
-    "m_nSplitScreenSlot": 1508,
-    "m_nTickBase": 1496,
-    "m_steamID": 1688
+    "m_nInButtonsWhichAreToggles": 1536,
+    "m_nSplitScreenSlot": 1556,
+    "m_nTickBase": 1544,
+    "m_steamID": 1736
   },
   "CBasePlayerVData": {
     "m_flArmDamageMultiplier": 312,
@@ -195,64 +195,64 @@
     "m_iFOVStart": 532
   },
   "CCSPlayerController": {
-    "m_bAbandonAllowsSurrender": 1950,
-    "m_bAbandonOffersInstantSurrender": 1951,
-    "m_bCanControlObservedBot": 1976,
-    "m_bCannotBeKicked": 1948,
-    "m_bControllingBot": 1968,
-    "m_bDisconnection1MinWarningPrinted": 1952,
-    "m_bEverFullyConnected": 1949,
-    "m_bEverPlayedOnTeam": 1804,
-    "m_bHasBeenControlledByPlayerThisRound": 1970,
-    "m_bHasCommunicationAbuseMute": 1780,
-    "m_bHasControlledBotThisRound": 1969,
-    "m_bIsPlayerNameDirty": 2052,
-    "m_bPawnHasDefuser": 2000,
-    "m_bPawnHasHelmet": 2001,
-    "m_bPawnIsAlive": 1988,
-    "m_bScoreReported": 1953,
-    "m_flForceTeamTime": 1796,
-    "m_flPreviousForceJoinTeamTime": 1808,
-    "m_hObserverPawn": 1984,
-    "m_hOriginalControllerOfCurrentPawn": 2016,
-    "m_hPlayerPawn": 1980,
-    "m_iCoachingTeam": 1832,
-    "m_iCompTeammateColor": 1800,
-    "m_iCompetitiveRankType": 1864,
-    "m_iCompetitiveRanking": 1856,
-    "m_iCompetitiveRankingPredicted_Loss": 1872,
-    "m_iCompetitiveRankingPredicted_Tie": 1876,
-    "m_iCompetitiveRankingPredicted_Win": 1868,
-    "m_iCompetitiveWins": 1860,
-    "m_iDraftIndex": 1936,
-    "m_iMVPs": 2048,
-    "m_iPawnArmor": 1996,
-    "m_iPawnBotDifficulty": 2012,
-    "m_iPawnHealth": 1992,
-    "m_iPawnLifetimeEnd": 2008,
-    "m_iPawnLifetimeStart": 2004,
-    "m_iPendingTeamNum": 1792,
-    "m_iPing": 1776,
-    "m_iScore": 2020,
-    "m_msQueuedModeDisconnectionTimestamp": 1940,
-    "m_nBotsControlledThisRound": 1972,
-    "m_nDisconnectionTick": 1956,
-    "m_nEndMatchNextMapVote": 1880,
-    "m_nPawnCharacterDefIndex": 2002,
-    "m_nPlayerDominated": 1840,
-    "m_nPlayerDominatingMe": 1848,
-    "m_nQuestProgressReason": 1888,
-    "m_pActionTrackingServices": 1760,
-    "m_pDamageServices": 1768,
-    "m_pInGameMoneyServices": 1744,
-    "m_pInventoryServices": 1752,
-    "m_sSanitizedPlayerName": 1824,
-    "m_szClan": 1816,
-    "m_szCrosshairCodes": 1784,
-    "m_uiAbandonRecordedReason": 1944,
-    "m_unActiveQuestId": 1884,
-    "m_unPlayerTvControlFlags": 1892,
-    "m_vecKills": 2024
+    "m_bAbandonAllowsSurrender": 1998,
+    "m_bAbandonOffersInstantSurrender": 1999,
+    "m_bCanControlObservedBot": 2024,
+    "m_bCannotBeKicked": 1996,
+    "m_bControllingBot": 2016,
+    "m_bDisconnection1MinWarningPrinted": 2000,
+    "m_bEverFullyConnected": 1997,
+    "m_bEverPlayedOnTeam": 1852,
+    "m_bHasBeenControlledByPlayerThisRound": 2018,
+    "m_bHasCommunicationAbuseMute": 1828,
+    "m_bHasControlledBotThisRound": 2017,
+    "m_bIsPlayerNameDirty": 2100,
+    "m_bPawnHasDefuser": 2048,
+    "m_bPawnHasHelmet": 2049,
+    "m_bPawnIsAlive": 2036,
+    "m_bScoreReported": 2001,
+    "m_flForceTeamTime": 1844,
+    "m_flPreviousForceJoinTeamTime": 1856,
+    "m_hObserverPawn": 2032,
+    "m_hOriginalControllerOfCurrentPawn": 2064,
+    "m_hPlayerPawn": 2028,
+    "m_iCoachingTeam": 1880,
+    "m_iCompTeammateColor": 1848,
+    "m_iCompetitiveRankType": 1912,
+    "m_iCompetitiveRanking": 1904,
+    "m_iCompetitiveRankingPredicted_Loss": 1920,
+    "m_iCompetitiveRankingPredicted_Tie": 1924,
+    "m_iCompetitiveRankingPredicted_Win": 1916,
+    "m_iCompetitiveWins": 1908,
+    "m_iDraftIndex": 1984,
+    "m_iMVPs": 2096,
+    "m_iPawnArmor": 2044,
+    "m_iPawnBotDifficulty": 2060,
+    "m_iPawnHealth": 2040,
+    "m_iPawnLifetimeEnd": 2056,
+    "m_iPawnLifetimeStart": 2052,
+    "m_iPendingTeamNum": 1840,
+    "m_iPing": 1824,
+    "m_iScore": 2068,
+    "m_msQueuedModeDisconnectionTimestamp": 1988,
+    "m_nBotsControlledThisRound": 2020,
+    "m_nDisconnectionTick": 2004,
+    "m_nEndMatchNextMapVote": 1928,
+    "m_nPawnCharacterDefIndex": 2050,
+    "m_nPlayerDominated": 1888,
+    "m_nPlayerDominatingMe": 1896,
+    "m_nQuestProgressReason": 1936,
+    "m_pActionTrackingServices": 1808,
+    "m_pDamageServices": 1816,
+    "m_pInGameMoneyServices": 1792,
+    "m_pInventoryServices": 1800,
+    "m_sSanitizedPlayerName": 1872,
+    "m_szClan": 1864,
+    "m_szCrosshairCodes": 1832,
+    "m_uiAbandonRecordedReason": 1992,
+    "m_unActiveQuestId": 1932,
+    "m_unPlayerTvControlFlags": 1940,
+    "m_vecKills": 2072
   },
   "CCSPlayerController_ActionTrackingServices": {
     "m_iNumRoundKills": 264,
@@ -515,14 +515,16 @@
   "CDecalInfo": {
     "m_flAnimationLifeSpan": 4,
     "m_flAnimationScale": 0,
+    "m_flBoundingRadiusSqr": 52,
     "m_flFadeDuration": 16,
     "m_flFadeStartTime": 12,
     "m_flPlaceTime": 8,
     "m_nBoneIndex": 24,
-    "m_nDecalMaterialIndex": 144,
+    "m_nDecalMaterialIndex": 168,
     "m_nVBSlot": 20,
-    "m_pNext": 40,
-    "m_pPrev": 48
+    "m_pNext": 64,
+    "m_pPrev": 72,
+    "m_vPosition": 40
   },
   "CEconItemAttribute": {
     "m_bSetBonus": 64,
@@ -1104,33 +1106,34 @@
     "m_usable": 3268
   },
   "C_BaseCSGrenade": {
-    "m_bClientPredictDelete": 6608,
-    "m_bIsHeldByPlayer": 6610,
-    "m_bJumpThrow": 6612,
-    "m_bPinPulled": 6611,
-    "m_bRedraw": 6609,
-    "m_eThrowStatus": 6616,
-    "m_fDropTime": 6632,
-    "m_fThrowTime": 6620,
-    "m_flThrowStrength": 6624,
-    "m_flThrowStrengthApproach": 6628
+    "m_bClientPredictDelete": 6640,
+    "m_bIsHeldByPlayer": 6642,
+    "m_bJumpThrow": 6644,
+    "m_bPinPulled": 6643,
+    "m_bRedraw": 6641,
+    "m_eThrowStatus": 6648,
+    "m_fDropTime": 6664,
+    "m_fThrowTime": 6652,
+    "m_flThrowStrength": 6656,
+    "m_flThrowStrengthApproach": 6660
   },
   "C_BaseCSGrenadeProjectile": {
-    "flNextTrailLineTime": 4256,
-    "m_arrTrajectoryTrailPointCreationTimes": 4304,
-    "m_arrTrajectoryTrailPoints": 4280,
-    "m_bCanCreateGrenadeTrail": 4261,
-    "m_bExplodeEffectBegan": 4260,
-    "m_flSpawnTime": 4240,
-    "m_flTrajectoryTrailEffectCreationTime": 4328,
-    "m_hSnapshotTrajectoryParticleSnapshot": 4272,
-    "m_nBounces": 4212,
-    "m_nExplodeEffectIndex": 4216,
-    "m_nExplodeEffectTickBegin": 4224,
-    "m_nSnapshotTrajectoryEffectIndex": 4264,
-    "m_vInitialVelocity": 4200,
-    "m_vecExplodeEffectOrigin": 4228,
-    "vecLastTrailLinePos": 4244
+    "flNextTrailLineTime": 4272,
+    "m_arrTrajectoryTrailPointCreationTimes": 4320,
+    "m_arrTrajectoryTrailPoints": 4296,
+    "m_bCanCreateGrenadeTrail": 4277,
+    "m_bExplodeEffectBegan": 4276,
+    "m_flSpawnTime": 4256,
+    "m_flTrajectoryTrailEffectCreationTime": 4344,
+    "m_hSnapshotTrajectoryParticleSnapshot": 4288,
+    "m_nBounces": 4224,
+    "m_nExplodeEffectIndex": 4232,
+    "m_nExplodeEffectTickBegin": 4240,
+    "m_nSnapshotTrajectoryEffectIndex": 4280,
+    "m_vInitialPosition": 4200,
+    "m_vInitialVelocity": 4212,
+    "m_vecExplodeEffectOrigin": 4244,
+    "vecLastTrailLinePos": 4260
   },
   "C_BaseClientUIEntity": {
     "m_DialogXMLName": 3280,
@@ -1450,17 +1453,18 @@
     "m_vecStartPos": 3776
   },
   "C_C4": {
-    "m_bBombPlacedAnimation": 6652,
-    "m_bBombPlanted": 6691,
-    "m_bDroppedFromDeath": 6692,
-    "m_bIsPlantingViaUse": 6653,
-    "m_bPlayedArmingBeeps": 6684,
-    "m_bStartedArming": 6644,
-    "m_bombdroppedlightParticleIndex": 6640,
-    "m_entitySpottedState": 6656,
-    "m_fArmedTime": 6648,
-    "m_nSpotRules": 6680,
-    "m_szScreenText": 6608
+    "m_activeLightParticleIndex": 6672,
+    "m_bBombPlacedAnimation": 6688,
+    "m_bBombPlanted": 6731,
+    "m_bDroppedFromDeath": 6732,
+    "m_bIsPlantingViaUse": 6689,
+    "m_bPlayedArmingBeeps": 6724,
+    "m_bStartedArming": 6680,
+    "m_eActiveLightEffect": 6676,
+    "m_entitySpottedState": 6696,
+    "m_fArmedTime": 6684,
+    "m_nSpotRules": 6720,
+    "m_szScreenText": 6640
   },
   "C_CSGOViewModel": {
     "m_bNeedToQueueHighResComposite": 3872,
@@ -1500,9 +1504,9 @@
     "m_nDefaultAnimLoopMode": 4144
   },
   "C_CSGO_PreviewPlayer": {
-    "m_animgraph": 8928,
-    "m_animgraphCharacterModeString": 8936,
-    "m_flInitialModelScale": 8944
+    "m_animgraph": 8936,
+    "m_animgraphCharacterModeString": 8944,
+    "m_flInitialModelScale": 8952
   },
   "C_CSGO_TeamPreviewCamera": {
     "m_bDofEnabled": 1444,
@@ -1543,8 +1547,8 @@
     "m_bGamePaused": 69,
     "m_bGameRestart": 108,
     "m_bHasMatchStarted": 164,
-    "m_bHasTriggeredCoopSpawnReset": 3434,
-    "m_bHasTriggeredRoundStartMusic": 3433,
+    "m_bHasTriggeredCoopSpawnReset": 3437,
+    "m_bHasTriggeredRoundStartMusic": 3436,
     "m_bIsDroppingItems": 2232,
     "m_bIsHltvActive": 2234,
     "m_bIsQuestEligible": 2233,
@@ -1555,12 +1559,11 @@
     "m_bMapHasBuyZone": 143,
     "m_bMapHasRescueZone": 142,
     "m_bMarkClientStopRecordAtRoundEnd": 3344,
-    "m_bMatchAbortedDueToPlayerBan": 3432,
     "m_bMatchWaitingForResume": 89,
     "m_bPlayAllStepSoundsOnServer": 154,
     "m_bServerPaused": 68,
     "m_bSpawnedTerrorHuntHeavy": 3221,
-    "m_bSwitchingTeamsAtRoundReset": 3435,
+    "m_bSwitchingTeamsAtRoundReset": 3438,
     "m_bTCantBuy": 2536,
     "m_bTeamIntroPeriod": 3764,
     "m_bTechnicalTimeOut": 88,
@@ -1600,6 +1603,7 @@
     "m_nGuardianModeSpecialWeaponNeeded": 2244,
     "m_nGuardianModeWaveNumber": 2236,
     "m_nHalloweenMaskListSeed": 2520,
+    "m_nMatchAbortedEarlyReason": 3432,
     "m_nMatchEndCount": 3752,
     "m_nNextMapInMapgroup": 168,
     "m_nNumHeaviesToSpawn": 2252,
@@ -1646,17 +1650,17 @@
     "m_bInHostageRescueZone": 5984,
     "m_bInLanding": 5976,
     "m_bIsBuyMenuOpen": 5986,
-    "m_bLastHeadBoneTransformIsValid": 8872,
+    "m_bLastHeadBoneTransformIsValid": 8880,
     "m_bMustSyncRagdollState": 7424,
     "m_bNeedToReApplyGloves": 6320,
-    "m_bOnGroundLastTick": 8880,
+    "m_bOnGroundLastTick": 8888,
     "m_bPrevDefuser": 5886,
     "m_bPrevHelmet": 5887,
     "m_bPreviouslyInBuyZone": 5905,
     "m_bRagdollDamageHeadshot": 7520,
     "m_bRetakesHasDefuseKit": 6280,
     "m_bRetakesMVPLastRound": 6281,
-    "m_bSkipOneHeadConstraintUpdate": 8920,
+    "m_bSkipOneHeadConstraintUpdate": 8928,
     "m_flHealthShotBoostExpirationTime": 5848,
     "m_flLandingTime": 5980,
     "m_flLandseconds": 5860,
@@ -1667,7 +1671,7 @@
     "m_iRetakesMVPBoostItem": 6284,
     "m_iRetakesOffering": 6272,
     "m_iRetakesOfferingCard": 6276,
-    "m_lastLandTime": 8876,
+    "m_lastLandTime": 8884,
     "m_nPrevArmorVal": 5888,
     "m_nPrevGrenadeAmmoCount": 5892,
     "m_nRagdollDamageBone": 7428,
@@ -1676,7 +1680,7 @@
     "m_pBuyServices": 5824,
     "m_pGlowServices": 5832,
     "m_pHostageServices": 5816,
-    "m_qDeathEyeAngles": 8908,
+    "m_qDeathEyeAngles": 8916,
     "m_szLastPlaceName": 5868,
     "m_szRagdollDamageWeaponName": 7456,
     "m_unPreviousWeaponHash": 5896,
@@ -1853,7 +1857,7 @@
   },
   "C_CSWeaponBase": {
     "m_ClientPreviousWeaponState": 5696,
-    "m_IronSightController": 6288,
+    "m_IronSightController": 6320,
     "m_OnPlayerPickup": 5744,
     "m_bBurstMode": 5832,
     "m_bFireOnEmpty": 5740,
@@ -1879,7 +1883,7 @@
     "m_flFireSequenceStartTime": 5588,
     "m_flGunAccuracyPosition": 5724,
     "m_flLastAccuracyUpdateTime": 5812,
-    "m_flLastLOSTraceFailureTime": 6480,
+    "m_flLastLOSTraceFailureTime": 6512,
     "m_flNextAttackRenderTimeOffset": 5860,
     "m_flNextClientFireBulletTime": 6092,
     "m_flNextClientFireBulletTime_Repredict": 6096,
@@ -1896,8 +1900,8 @@
     "m_iAlpha": 5712,
     "m_iAmmoLastCheck": 5708,
     "m_iCrosshairTextureID": 5720,
-    "m_iIronSightMode": 6464,
-    "m_iNumEmptyAttacks": 6484,
+    "m_iIronSightMode": 6496,
+    "m_iNumEmptyAttacks": 6516,
     "m_iOriginalTeamNumber": 5856,
     "m_iRecoilIndex": 5824,
     "m_iScopeTextureID": 5716,
@@ -1920,12 +1924,12 @@
     "m_weaponMode": 5784
   },
   "C_CSWeaponBaseGun": {
-    "m_bNeedsBoltAction": 6637,
-    "m_iBurstShotsRemaining": 6612,
-    "m_iSilencerBodygroup": 6616,
-    "m_inPrecache": 6636,
-    "m_silencedModelIndex": 6632,
-    "m_zoomLevel": 6608
+    "m_bNeedsBoltAction": 6669,
+    "m_iBurstShotsRemaining": 6644,
+    "m_iSilencerBodygroup": 6648,
+    "m_inPrecache": 6668,
+    "m_silencedModelIndex": 6664,
+    "m_zoomLevel": 6640
   },
   "C_Chicken": {
     "m_AttributeManager": 4352,
@@ -1985,7 +1989,7 @@
     "m_lookupFilename": 3304
   },
   "C_CommandContext": {
-    "command_number": 120,
+    "command_number": 168,
     "needsprocessing": 0
   },
   "C_CsmFovOverride": {
@@ -1993,9 +1997,9 @@
     "m_flCsmFovOverrideValue": 1352
   },
   "C_DecoyProjectile": {
-    "m_flTimeParticleEffectSpawn": 4376,
-    "m_nClientLastKnownDecoyShotTick": 4340,
-    "m_nDecoyShotTick": 4336
+    "m_flTimeParticleEffectSpawn": 4392,
+    "m_nClientLastKnownDecoyShotTick": 4356,
+    "m_nDecoyShotTick": 4352
   },
   "C_DynamicLight": {
     "m_Exponent": 3272,
@@ -2372,8 +2376,8 @@
     "m_z": 3852
   },
   "C_Fists": {
-    "m_bPlayingUninterruptableAct": 6608,
-    "m_nUninterruptableActivity": 6612
+    "m_bPlayingUninterruptableAct": 6640,
+    "m_nUninterruptableActivity": 6644
   },
   "C_FogController": {
     "m_bUseAngles": 1448,
@@ -2593,10 +2597,10 @@
     "m_nVoteMapIdsList": 1624
   },
   "C_Melee": {
-    "m_flThrowAt": 6608
+    "m_flThrowAt": 6640
   },
   "C_MolotovProjectile": {
-    "m_bIsIncGrenade": 4336
+    "m_bIsIncGrenade": 4352
   },
   "C_Multimeter": {
     "m_hTargetC4": 3720
@@ -3018,14 +3022,14 @@
     "m_skyboxSlotToken": 1488
   },
   "C_SmokeGrenadeProjectile": {
-    "m_VoxelFrameData": 4384,
-    "m_bDidSmokeEffect": 4348,
-    "m_bSmokeEffectSpawned": 4409,
-    "m_bSmokeVolumeDataReceived": 4408,
-    "m_nRandomSeed": 4352,
-    "m_nSmokeEffectTickBegin": 4344,
-    "m_vSmokeColor": 4356,
-    "m_vSmokeDetonationPos": 4368
+    "m_VoxelFrameData": 4400,
+    "m_bDidSmokeEffect": 4364,
+    "m_bSmokeEffectSpawned": 4425,
+    "m_bSmokeVolumeDataReceived": 4424,
+    "m_nRandomSeed": 4368,
+    "m_nSmokeEffectTickBegin": 4360,
+    "m_vSmokeColor": 4372,
+    "m_vSmokeDetonationPos": 4384
   },
   "C_SoundAreaEntityBase": {
     "m_bDisabled": 1344,
@@ -3175,14 +3179,14 @@
     "m_nVoteOptionCount": 1368
   },
   "C_WeaponBaseItem": {
-    "m_SequenceCompleteTimer": 6608,
-    "m_bRedraw": 6632
+    "m_SequenceCompleteTimer": 6640,
+    "m_bRedraw": 6664
   },
   "C_WeaponShield": {
-    "m_flDisplayHealth": 6640
+    "m_flDisplayHealth": 6672
   },
   "C_WeaponTaser": {
-    "m_fFireTime": 6640
+    "m_fFireTime": 6672
   },
   "C_fogplayerparams_t": {
     "m_NewColor": 40,

@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-11-11 18:11:07.964107600 UTC
+ * 2023-11-23 10:28:25.171412900 UTC
  */
 
 #![allow(non_snake_case, non_upper_case_globals)]
@@ -134,6 +134,11 @@ pub mod EventClientSendInput_t {
 
 pub mod EventFrameBoundary_t {
     pub const m_flFrameTime: usize = 0x0; // float
+}
+
+pub mod EventHostTimescaleChanged_t {
+    pub const m_flOldValue: usize = 0x0; // float
+    pub const m_flNewValue: usize = 0x4; // float
 }
 
 pub mod EventPostAdvanceTick_t {

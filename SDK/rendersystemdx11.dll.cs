@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-11-11 18:11:07.951191200 UTC
+ * 2023-11-23 10:28:25.147932300 UTC
  */
 
 public static class RenderInputLayoutField_t {

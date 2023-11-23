@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-11-11 18:11:07.957578100 UTC
+ * 2023-11-23 10:28:25.158974700 UTC
  */
 
 #pragma once
@@ -136,6 +136,11 @@ namespace EventClientSendInput_t {
 
 namespace EventFrameBoundary_t {
     constexpr std::ptrdiff_t m_flFrameTime = 0x0; // float
+}
+
+namespace EventHostTimescaleChanged_t {
+    constexpr std::ptrdiff_t m_flOldValue = 0x0; // float
+    constexpr std::ptrdiff_t m_flNewValue = 0x4; // float
 }
 
 namespace EventPostAdvanceTick_t {

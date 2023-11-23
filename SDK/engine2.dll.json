@@ -109,6 +109,10 @@
   "EventFrameBoundary_t": {
     "m_flFrameTime": 0
   },
+  "EventHostTimescaleChanged_t": {
+    "m_flNewValue": 4,
+    "m_flOldValue": 0
+  },
   "EventPostAdvanceTick_t": {
     "m_nCurrentTick": 48,
     "m_nCurrentTickThisFrame": 52,

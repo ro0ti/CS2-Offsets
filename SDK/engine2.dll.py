@@ -1,6 +1,6 @@
 '''
 https://github.com/a2x/cs2-dumper
-2023-11-11 18:11:07.961848400 UTC
+2023-11-23 10:28:25.166990700 UTC
 '''
 
 class CEntityComponentHelper:
@@ -112,6 +112,10 @@ class EventClientSendInput_t:
 
 class EventFrameBoundary_t:
     m_flFrameTime = 0x0 # float
+
+class EventHostTimescaleChanged_t:
+    m_flOldValue = 0x0 # float
+    m_flNewValue = 0x4 # float
 
 class EventPostAdvanceTick_t:
     m_nCurrentTick = 0x30 # int32_t

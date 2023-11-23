@@ -1,6 +1,6 @@
 /*
  * https://github.com/a2x/cs2-dumper
- * 2023-11-11 18:11:08.377434 UTC
+ * 2023-11-23 10:28:25.838895700 UTC
  */
 
 public static class CBaseRendererSource2 {
